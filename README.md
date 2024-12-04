@@ -4,4 +4,5 @@ This is my first Git Repository.
 Author - Tulsi Dewangan
 <br>
 Poject name : Spotify Clone
+programming : Javascrpt, HTML, CSS
 
